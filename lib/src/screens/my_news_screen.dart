@@ -147,7 +147,7 @@ class _MyNewsScreenState extends State<MyNewsScreen> {
         boxShadow: [
           BoxShadow(
             color: Colors.black.withOpacity(0.05),
-            blurRadius: 7,
+            blurRadius: 8,
             offset: const Offset(0, 2),
           ),
         ],

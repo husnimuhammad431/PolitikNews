@@ -98,7 +98,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           padding: EdgeInsets.symmetric(horizontal: 16.w),
                           decoration: BoxDecoration(
                             color: isSelected ? primaryColor : Colors.white,
-                            borderRadius: BorderRadius.circular(21.r),
+                            borderRadius: BorderRadius.circular(20.r),
                             border: Border.all(
                               color: isSelected
                                   ? primaryColor

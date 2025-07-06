@@ -66,7 +66,7 @@ class _IntroductionScreenState extends State<IntroductionScreen> {
                       'Skip',
                       style: TextStyle(
                         fontFamily: 'Poppins',
-                        fontSize: 15.sp,
+                        fontSize: 16.sp,
                         fontWeight: FontWeight.w500,
                         color: Colors.grey.shade600,
                       ),
